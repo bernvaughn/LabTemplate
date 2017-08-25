@@ -3,8 +3,8 @@ Authors: John Doe
 
 This describes the purpose of the lab in a few sentences.
 
-Compiling:
-To run the program, compile it with g++ and then run the executable.
+## Running:
+If there are any special steps needed to compile, install or run the program, list them here.
 
 ## Files
 main.cpp: The main program. 
